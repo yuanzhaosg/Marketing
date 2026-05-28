@@ -413,10 +413,10 @@ export default defineConfig({
 
 1. Visit [clarity.microsoft.com](https://clarity.microsoft.com)
 2. Create new project → enter your site URL
-3. Copy the Project ID (looks like: `wy40lkv1xj`)
+3. Copy the Project ID (looks like: `pxxxxxxxx` — a short alphanumeric string)
 4. Add to your `site.config.ts`:
    ```typescript
-   clarityId: 'wy40lkv1xj',
+   clarityId: 'YOUR_CLARITY_PROJECT_ID',
    ```
 5. Clarity script is auto-injected via BaseLayout
 
