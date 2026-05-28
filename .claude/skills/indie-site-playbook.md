@@ -1,4 +1,4 @@
-# indie-site-builder — B2B SaaS Affiliate Site Skill
+# indie-site-playbook — B2B SaaS Affiliate Site Skill
 
 Use this skill when the user wants to build a B2B SaaS affiliate review site, or asks for help with any step of the process: niche selection, site setup, content creation, affiliate monetization, launch, backlink building, or ongoing operations.
 

@@ -1,4 +1,4 @@
-# indie-site-builder — B2B SaaS Affiliate Site Builder
+# indie-site-playbook — B2B SaaS Affiliate Site Builder
 
 A complete, AI-executable playbook for building B2B SaaS affiliate review sites from zero to $2,000–$3,000/month.
 
@@ -41,15 +41,15 @@ Add this skill to your Claude Code setup:
 
 ```bash
 # Clone this repo
-git clone https://github.com/YOUR_USERNAME/indie-site-builder.git
+git clone https://github.com/YOUR_USERNAME/indie-site-playbook.git
 
 # Copy the skill to your Claude config
-cp indie-site-builder/.claude/skills/indie-site-builder.md ~/.claude/skills/
+cp indie-site-playbook/.claude/skills/indie-site-playbook.md ~/.claude/skills/
 ```
 
 Then in Claude Code, invoke with:
 ```
-/indie-site-builder
+/indie-site-playbook
 ```
 
 ### Manual Use
