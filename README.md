@@ -82,10 +82,10 @@ AI 会询问你当前处于哪个阶段，然后从那里开始带你执行。
 
 | 网站 | 方向 | 状态 |
 |------|------|------|
-| hrpaypick.com | HR & 薪资软件评测 | 上线中 |
-| cashflowpick.com | AP 自动化 & 报销软件 | 上线中 |
-| commsadvisor.com | 帮助台 & 客服工具 | 上线中 |
-| chinaabroadguide.com | 企业出海指南（中文） | 上线中 |
+| tbc.com | HR & 薪资软件评测 | 上线中 |
+| tbc.com | AP 自动化 & 报销软件 | 上线中 |
+| tbc.com | 帮助台 & 客服工具 | 上线中 |
+| tbc.com | 企业出海指南（中文） | 上线中 |
 
 ---
 
